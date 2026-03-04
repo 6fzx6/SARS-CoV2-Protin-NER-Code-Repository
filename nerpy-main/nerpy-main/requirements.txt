@@ -1,0 +1,9 @@
+loguru
+transformers>=4.6.0
+datasets
+tqdm
+scipy
+numpy
+pandas
+seqeval
+tensorboard
