@@ -58,3 +58,4 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+nerpy-main/nerpy-main/examples/qq/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
